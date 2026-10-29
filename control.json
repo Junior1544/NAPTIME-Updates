@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "release": {
-    "version": "1.4.3",
-    "url": "https://github.com/Junior1544/NAPTIME-Updates/releases/download/v1.4.3/NAPTIME.exe",
-    "sha256": "3e3106d4a4eda6900859359f4a13246a972c9eb57dbc06ab8011302c82d393a4"
+    "version": "1.4.4",
+    "url": "https://github.com/Junior1544/NAPTIME-Updates/releases/download/v1.4.4/NAPTIME.exe",
+    "sha256": "d4c4a024115012582dd226e2ea2531759cd0d63e7a3738f7012545ad54594cc7"
   }
 }
